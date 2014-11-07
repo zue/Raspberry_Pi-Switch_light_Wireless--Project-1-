@@ -8,14 +8,17 @@ Checklist stuff for now (7-Nov-2014)
   <li>1 Raspberry Pi board + case
   <li>1 power suppy Output 5v/2Amp
   <li>1 16 GB memmory card
-  <li>1 set of mouse&wireless keboard
+  <li>1 set of mouse & wireless keboard
   <li>1 monitor
   <li>1 ethernet wire
+  <li>1 HDMI wire
+  <li>1 HDMI to VGA wire <- cause my monitor is damn old
   <li>Several wire for GPIO
 </ul>
 *more update later, not enough money + stuff
 
 need relay? wireless switch?
+Please give suggestion!
 
 Possible reference to enable the project!
 <ul>
